@@ -8,5 +8,5 @@ Here's my config for Webstorm IDE with some color tweaks (i didn't like the defa
 3. After a while app will ask you to update plugin Material UI
 4. Restart app, and voila! 
 
-Inline-style: 
+Theme preview: 
 ![UI preview](https://github.com/borbah/webstorm-settings/blob/master/webstorm.png "Theme preview")
