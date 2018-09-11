@@ -1,0 +1,12 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JSX Harmony" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
+</application>

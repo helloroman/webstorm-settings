@@ -1,0 +1,8 @@
+<templateSet group="Vue">
+  <template name="trans" value="&lt;transition&#10;      :enter-class=&quot;$style.$PARAM$Enter&quot;&#10;      :enter-active-class=&quot;$style.$PARAM$EnterActive&quot;&#10;      :enter-to-class=&quot;$style.$PARAM$EnterTo&quot;&#10;      :leave-class=&quot;$style.$PARAM$Leave&quot;&#10;      :leave-active-class=&quot;$style.$PARAM$LeaveActive&quot;&#10;      :leave-to-class=&quot;$style.$PARAM$LeaveTo&quot;&#10;      appear&#10;    &gt;&#10;  &lt;/transition&gt;" description="Transition template" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

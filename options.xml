@@ -1,0 +1,107 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="12-12-11-255,,,40-58-67-255,,,108-139-151-80,,,52-64-75-80,,,33-33-33-255,,,191-191-191-255,,,22-31-36-255,,,60-78-87-50,,,50-50-50-255,,,23-23-23-255,,,24-24-24-255,,,37-51-58-255,,,54-70-78-255,,,31-34-41-255,,,50-55-66-255,,,43-47-57-255,,,40-44-52-255,,,28-38-44-255,,,83-203-199-255,,,70-90-108-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.75632185" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.savedEditorTheme" value="_@user_Material Lighter" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Vue Single File Component" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="INSPECTION_FILTER_HISTORY" value="empty tag&#10;unused&#10;explicit&#10;vue&#10;some brow&#10;clos&#10;tag&#10;directo&#10;import&#10;file reference" />
+    <property name="INTENTION_FILTER_HISTORY" value="tag" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.sortTestsAlphabetically" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.sortTestsByDuration" value="true" />
+    <property name="KEYMAP" value="tab&#10;split&#10;next splitter&#10;splitter&#10;eslint" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJSX Harmony" value="false" />
+    <property name="LayoutCode.rearrangeEntriesSCSS" value="false" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="25" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="PLUGIN_FILTER" value="rela&#10;relative line nu&#10;jest&#10;bracket&#10;mater" />
+    <property name="SearchEveryWhereHistory" value="&lt;div :class=&quot;$style.wrapper&quot;&gt;&#10;&gt;&#10;}&#10;$&#10;webpack" />
+    <property name="SettingsSearchHistory" value="Presentation Mode&#10;live templ&#10;console&#10;tab&#10;live" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.71295214" />
+    <property name="Vcs.Log.Text.Filter.History" value="4e71d192b4a825e79fd5aaf9f31e8fc0452eb09c" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="ONE_DARK" />
+    <property name="com.chrisrm.idea.MaterialThemeUIFork.theme" value="mt.darker" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="emmet.last.wrap.abbreviations" value="div.outerWrapper" />
+    <property name="emmet.recent.wrap.abbreviations" value="div.outerWrapper&#10;div.innerWrapper&#10;transition&#10;span&#10;div&#10;p" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.172" value="17" />
+    <property name="evlsprt3.173" value="11" />
+    <property name="evlsprt3.181" value="15" />
+    <property name="evlsprt3.182" value="19" />
+    <property name="evlsprt3.WS-181.4203.9" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Netguru/vrbo-front" />
+    <property name="file.gist.reindex.count" value="46806" />
+    <property name="fileTypeChangedCounter" value="306" />
+    <property name="idea.background.frame" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="idea.background.frame.default" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="idea.background.frame.mt" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="ideavim.statistics.timestamp" value="1518601422057" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="js.chrome.debugger.port" value="60239" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="lastTip" value="28" />
+    <property name="mt.isShownWizard" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="selected.color.option.type" value="BROWSEWORDATCARET" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+    <property name="typescript.show.auto.import" value="false" />
+  </component>
+</application>
