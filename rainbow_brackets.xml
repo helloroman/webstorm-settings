@@ -1,15 +1,6 @@
 <application>
   <component name="RainbowSettings">
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
-    <option name="lightRoundBracketsColors">
-      <array>
-        <option value="0xE6B422" />
-        <option value="0x43A047" />
-        <option value="0x2196F3" />
-        <option value="0x3F51B5" />
-        <option value="0x00897B" />
-      </array>
-    </option>
-    <option name="version" value="5.9.1" />
+    <option name="version" value="5.10" />
   </component>
 </application>
