@@ -4,6 +4,7 @@
     <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="presentationMode" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
