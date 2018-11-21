@@ -48,4 +48,5 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
