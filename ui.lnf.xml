@@ -4,6 +4,8 @@
     <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="23" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1058" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
