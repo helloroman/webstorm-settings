@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myShellPath" value="/bin/zsh --login" />
+    <option name="myShellPath" value="/bin/zsh" />
   </component>
 </application>
