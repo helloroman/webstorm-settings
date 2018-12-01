@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/kentcdodds/testing-workshop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mike-works/typescript-fundamentals.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Sites" />
