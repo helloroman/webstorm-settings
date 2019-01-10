@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
