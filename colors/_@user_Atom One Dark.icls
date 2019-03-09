@@ -4,17 +4,17 @@
     <property name="created">2018-05-09T09:35:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-11-20T12:22:27</property>
+    <property name="modified">2019-03-09T12:28:21</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
