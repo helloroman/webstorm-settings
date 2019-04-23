@@ -84,7 +84,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="storyimport" value="import React from 'react';&#10;import { storiesOf } from '@storybook/react';&#10;import $component$ from './$component$'; &#10;&#10;storiesOf('$type$/$component$', module)&#10;  .add('Default', () =&gt; );" description="" toReformat="false" toShortenFQNames="true">
+  <template name="storyimport" value="import React from 'react';&#10;import { storiesOf } from '@storybook/react';&#10;import $component$ from './$component$'; &#10;&#10;storiesOf('$type$/$component$', module)&#10;  .add('Default', () =&gt; &lt;$component$ /&gt;);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="component" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
