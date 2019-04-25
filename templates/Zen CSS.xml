@@ -394,4 +394,10 @@
   <template name="wid" value="widows:$END$;" description="widows:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="theme" value="${({theme}) =&gt; theme.$1$};" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
