@@ -5,7 +5,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="react" value="import React from 'react';&#10;import styled from 'styled-components';&#10;import PropTypes from 'prop-types';" description="import React related stuff" toReformat="false" toShortenFQNames="true">
+  <template name="react" value="import React from 'react';&#10;import styled from 'styled-components';&#10;import PropTypes from 'prop-types';&#10;&#10;const $component$ = () =&gt; (&#10;  $body$&#10;);&#10;&#10;export default $component$;" description="import React related stuff" toReformat="false" toShortenFQNames="true">
+    <variable name="component" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
