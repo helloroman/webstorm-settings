@@ -91,4 +91,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="proptypes" value="$PARAM$.propTypes = {&#10;  $PARAM2$: PropTypes.$PARAM3$&#10;}&#10;&#10;$PARAM$.defaultProps = {&#10;  $PARAM2$: &#10;}" description="Skaffold for prop types" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
