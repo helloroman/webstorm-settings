@@ -103,6 +103,7 @@
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="CSS" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
