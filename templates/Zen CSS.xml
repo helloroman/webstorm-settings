@@ -58,7 +58,7 @@
     <variable name="VAR4" expression="" defaultValue="&quot;color&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="m" value="margin:$END$;" description="margin:...;" toReformat="true" toShortenFQNames="true">
+  <template name="m" value="margin:$END$;" description="margin:...;" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
   <template name="mt" value="margin-top:$END$;" description="margin-top:...;" toReformat="true" toShortenFQNames="true">
@@ -73,7 +73,7 @@
   <template name="ml" value="margin-left:$END$;" description="margin-left:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="p" value="padding:$END$;" description="padding:...;" toReformat="true" toShortenFQNames="true">
+  <template name="p" value="padding:$END$;" description="padding:...;" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
   <template name="pt" value="padding-top:$END$;" description="padding-top:...;" toReformat="true" toShortenFQNames="true">
@@ -88,10 +88,10 @@
   <template name="pl" value="padding-left:$END$;" description="padding-left:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="w" value="width:$END$;" description="width:...;" toReformat="true" toShortenFQNames="true">
+  <template name="w" value="width:$END$;" description="width:...;" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
-  <template name="h" value="height:$END$;" description="height:...;" toReformat="true" toShortenFQNames="true">
+  <template name="h" value="height:$END$;" description="height:...;" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
   <template name="maw" value="max-width:$END$;" description="max-width:...;" toReformat="true" toShortenFQNames="true">
