@@ -5,11 +5,11 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="www.js" type="TypeScript JSX" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
