@@ -4,7 +4,7 @@
     <property name="created">2018-11-18T13:40:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2019-07-09T10:44:01</property>
+    <property name="modified">2019-07-24T11:19:43</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -56,7 +56,7 @@
     <option name="GUTTER_BACKGROUND" value="f111a" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="f111a" />
-    <option name="LINE_NUMBERS_COLOR" value="11141f" />
+    <option name="LINE_NUMBERS_COLOR" value="4c4d4e" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="525975" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b3f51" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
