@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/wesbos/Advanced-React.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FrontendMasters/intro-node-js" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sites" />
+    <option name="cloneParentDir" value="$USER_HOME$/Learning" />
   </component>
 </application>
