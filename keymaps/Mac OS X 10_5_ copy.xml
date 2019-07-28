@@ -3,9 +3,6 @@
     <keyboard-shortcut first-keystroke="shift meta alt a" />
   </action>
   <action id="DecrementWindowHeight" />
-  <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift home" />
-  </action>
   <action id="EditorMoveToPageBottomWithSelection">
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
     <keyboard-shortcut first-keystroke="shift meta down" />
