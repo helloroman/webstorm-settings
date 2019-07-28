@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift meta alt a" />
   </action>
   <action id="DecrementWindowHeight" />
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+  </action>
   <action id="EditorMoveToPageBottomWithSelection">
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
     <keyboard-shortcut first-keystroke="shift meta down" />
@@ -32,6 +35,12 @@
   </action>
   <action id="PreviousEditorTab" />
   <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="ResizeToolWindowUp" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl meta alt s" />
