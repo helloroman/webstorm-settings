@@ -44,15 +44,13 @@
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta 5" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl meta alt z" />
-  </action>
-  <action id="UnsplitAll">
-    <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
