@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="TypeScript" />
-      <blacklist language="Angular HTML Template" />
-      <blacklist language="JavaScript" />
-    </blacklists>
-  </component>
-</application>

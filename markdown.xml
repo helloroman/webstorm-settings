@@ -1,6 +1,0 @@
-<application>
-  <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
-    <MarkdownPreviewSettings DefaultSplitLayout="Show preview only" AutoScrollPreview="false" />
-  </component>
-</application>
